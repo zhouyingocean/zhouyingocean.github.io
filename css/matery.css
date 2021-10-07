@@ -367,6 +367,12 @@ header .side-nav .social-link {
     padding: 0 12px;
 }
 
+#busuanzi_container_site_pv,
+#busuanzi_value_site_pv,
+#busuanzi_container_site_uv {
+    display: inline !important;
+}
+
 .cover-btns {
     position: relative;
     top: 10vh;
