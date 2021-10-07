@@ -1,1 +1,10 @@
 /* Here is your custom css styles. */
+/*全局自定义字体*/
+@font-face{
+    font-family: 'STXINGKA';
+    src: url('../font/STXINGKA.TTF');
+}
+
+body{
+    font-family: 'STXINGKA';
+}
